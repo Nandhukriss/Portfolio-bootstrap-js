@@ -1,0 +1,15 @@
+body{
+    font-family:monospace;
+}
+html{
+
+    scroll-behavior: smooth;
+    scroll-padding: 5rem; ;
+}
+#pic{
+
+    filter: drop-shadow(5px 0 8px rgba(157, 155, 155, 0.5));
+    
+    
+
+}
